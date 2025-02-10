@@ -122,8 +122,7 @@ To deploy your app, use services like:
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Md Imran - [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav:w)
+## Author Amit Kumar- [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav:w)
 
 
 
